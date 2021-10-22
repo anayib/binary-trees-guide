@@ -1,9 +1,9 @@
 # Binary Tress Practical Guide - 101 -
 
-## Who is this for
+## Who is this guide for
 Programmers who want to understand what a binary tree data structure is, how to create them and when it makes sense to use them.
 
-## Who this is NOT for
+## Who is this guide NOT for
 Programmers with an advanced understanding of data structures.
 
 | Note: This is a guide in progress. You may find some appendix some topics that have not been developed yet, or even incomplete. This guide is also part of a series of guides on programming foundations and data structures that I will publish and link here in the future.
